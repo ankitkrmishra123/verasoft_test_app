@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153.552" height="33.021" viewBox="0 0 153.552 33.021">
+  <g id="Group_2258" data-name="Group 2258" transform="translate(-40 -45)">
+    <g id="keop_logo_white" transform="translate(40 45)">
+      <path id="Path_2" data-name="Path 2" d="M361.613,120.141h-.437v-3.352H360V116.4h2.8v.386h-1.185Z" transform="translate(-256.918 -87.129)" fill="#fff"/>
+      <path id="Path_3" data-name="Path 3" d="M372.805,120.141l-1.269-3.316h-.021q.036.395.036.938v2.379h-.4V116.4h.654l1.185,3.087h.021l1.206-3.087h.651v3.741h-.446V117.73q0-.413.036-.9h-.036l-1.278,3.316Z" transform="translate(-264.707 -87.129)" fill="#fff"/>
+      <path id="Path_4" data-name="Path 4" d="M28.55,35.111l-7.076,7.923v9.292H18.08V19.31h3.395V38.7L38.454,19.31h4.2l-11.884,13.3L43.682,52.325H39.726Z" transform="translate(-18.08 -19.31)" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M138.312,19.31v3.114H120.827V33.88H135.6V37H120.827V49.22h17.486v3.111H117.42V19.31Z" transform="translate(-87.471 -19.31)" fill="#fff"/>
+      <path id="Path_6" data-name="Path 6" d="M212.882,52.325c-4.48,0-6.6-2.11-6.6-6.6V25.912c0-4.48,2.11-6.6,6.6-6.6H223.3c4.48,0,6.6,2.11,6.6,6.6V45.72c0,4.48-2.11,6.6-6.6,6.6Zm-3.208-6.509c0,2.451.944,3.395,3.395,3.395h10.045c2.451,0,3.395-.944,3.395-3.395v-20c0-2.451-.944-3.395-3.395-3.395H213.069c-2.451,0-3.395.944-3.395,3.395Z" transform="translate(-149.542 -19.31)" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M328,19.31c4.293,0,6.6,2.312,6.6,6.6v6.982c0,4.293-2.312,6.6-6.6,6.6H315.265V52.325H311.87V19.31Zm-.19,17.073a3.042,3.042,0,0,0,3.395-3.395V25.819a3.039,3.039,0,0,0-3.395-3.395H315.265V36.383Z" transform="translate(-223.298 -19.31)" fill="#fff"/>
+    </g>
+    <g id="Group_2257" data-name="Group 2257" transform="translate(-41.5)">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="34.052" height="22" rx="3" transform="translate(201 56)" fill="#cdcecf"/>
+      <text id="I_O" data-name="I/O" transform="translate(206 73)" fill="#343641" font-size="16" font-family="OpenSans-Extrabold, Open Sans" font-weight="800"><tspan x="0" y="0">I</tspan><tspan y="0" fill="#818388">/</tspan><tspan y="0" fill="#343640">O</tspan></text>
+    </g>
+  </g>
+</svg>
